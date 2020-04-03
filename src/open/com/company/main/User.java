@@ -1,4 +1,4 @@
-package open.com.company;
+package open.com.company.main;
 
 public class User {
     int id;
